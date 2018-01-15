@@ -3,6 +3,7 @@ package test.co.kr.testinapppurchase
 import android.os.Bundle
 import android.view.View
 import kotlinx.android.synthetic.main.activity_main.*
+import test.co.kr.inapppurchase.PurchaseActivity
 
 class MainActivity : PurchaseActivity() {
 

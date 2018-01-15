@@ -1,0 +1,4 @@
+#Mon Jan 15 15:36:37 KST 2018
+base.0=/Users/jeonseung-il/Dropbox/AndroidProjects/TestInAppPurchase/app/build/intermediates/transforms/dex/release/0
+path.0=classes.dex
+renamed.0=classes.dex
